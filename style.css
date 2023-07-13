@@ -1,0 +1,77 @@
+body{
+    padding: 0px;margin: 0px;
+}
+
+
+.Om{
+    background-color: aquamarine;
+    padding: 60px;
+    margin: 0px;
+    text-align: center;
+}
+.Om1{
+    color:darkred;
+}
+.Om2{
+    font-size: 20px;
+}
+.Om3{
+    padding: 20px;
+    margin: 20px;
+    border-radius: 30px;
+    background-color: black;
+    color:white;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+
+.ok{
+    background-color: burlywood;
+    padding: 60px;
+    margin: 0px;
+    text-align: center;
+    margin-top: 0px;
+}
+.ok1{
+    color: crimson;
+}
+.ok2{
+    padding: 20px;
+    margin: 20px;
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.profile-card{
+    
+    width: 700px;
+    padding: 20px;
+    border: 5px solid grey;
+    margin: 10px auto;   
+    background-color:antiquewhite;
+    text-align: center
+    
+}
+.profile-card:hover{
+    background-color: chartreuse;
+    border-color: aqua;
+}
+.img1{
+    border: 10px ;
+    border-radius: 100%;
+}
+.img2{
+    border: 10px  ;
+    border-radius: 100;
+    transition: 10000ms;
+    transform: rotate();
+
+}
+.img2:hover{
+    background-color:cyan;
+
+}

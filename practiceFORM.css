@@ -1,0 +1,60 @@
+body{
+    margin: auto;
+    text-align: center;
+    margin-top: 10%;
+    background-color:palegreen;
+}
+.name{
+    background-color: yellow;
+    padding-top: 15px;
+}
+.email{
+    padding-top: 15px;
+    background-color: yellowgreen;
+}
+.age{
+    padding-top: 15px;
+    background-color: yellow;
+}
+.role{
+    padding-top: 15px;
+    background-color: yellowgreen;
+
+}
+.about_course{
+    padding-top: 15px;
+    background-color: yellow;
+
+}
+.course{
+    padding-top: 15px;
+    background-color: yellowgreen;
+    
+}
+.password{
+    padding-top: 15px;
+    background-color: yellow;
+}
+.buttons{
+    padding-top: 15px;
+    background-color: yellowgreen;
+    padding-bottom: 15px;
+}
+.button1{
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    font-weight: 900 ;
+}
+.button2{
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    font-weight: 900 ;
+}
+.button1:hover{
+    border-color: aqua;
+}
+.button2:hover{
+    border-color: aqua;
+}
